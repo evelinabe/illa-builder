@@ -72,7 +72,7 @@
     "numbro": "^2.4.0",
     "overlap-area": "^1.1.0",
     "papaparse": "^5.4.1",
-    "pdfjs-dist": "4.2.67",
+    "pdfjs-dist": "4.3.136",
     "qs": "^6.11.2",
     "rc-virtual-list": "^3.4.2",
     "re-resizable": "^6.9.9",
